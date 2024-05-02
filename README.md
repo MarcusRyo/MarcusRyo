@@ -1,71 +1,34 @@
-### Hi there 👋
+### Sejam Bem-Vindos ao meu Github!
 
-<!-- Cabeçalhos -->
+----------------
 
-# Título 1
-## Título 2
-### Título 3
-#### Título 4
-##### Título 5
-###### Título 6
+![Galaxy](https://steamuserimages-a.akamaihd.net/ugc/291978765890219786/138693388B54721058C586246F64093251908886/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
+🌟Olá, me chamo Marcus Ryo!
 
-*italico* ou _italico_
+🎓 Sou bacharel em contabilidade, pós graduado em desenvolvimento web full stack e atualmente estudante de analise e desenvolvimento de sistemas.
 
-**Negrito** ou __Negrito__
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="17px" /> [Linkedin](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
-___Negrito e Italico___ ou ***Negrito e Italico***
+-------------------
 
-- Lista 1
-- Lista 2
-   - Sublista
-       - Sublista 2
+### 💻 Minhas tecnologias
 
-<!-- Adicionando links a textos-->
-[Texto da imagem](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgByBT5IiAT_a2x9pUVb4VMoOrlzHH7Jrzj-HB5jzHlR4lNLMS)
+😅 Ainda em andamento...
 
-<!-- Adicionando imagem ao markdown -->
-![Texto da imagem](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgByBT5IiAT_a2x9pUVb4VMoOrlzHH7Jrzj-HB5jzHlR4lNLMS)
+--------------------
 
+### 📝 Meus Curosos e Certificados
 
-<!-- Isenrção de códigos de linha no Markdown é colocado entre crases -->
-`system.out.println();`
+| Cursos | Certificados |
+| ------ | ------------ |
+| Introdução a criação de websites com HTML5 e CSS3 | [Certificado](https://www.dio.me/certificate/3C61C3B0/share) |
+| Lógica de Programação Essencial | [Certificado](https://www.dio.me/certificate/AKLFXRK2/share) |
+| Pensamento Computacional | [Certificado](https://www.dio.me/certificate/J5U4HAM2/share) |
+| Príncipios do Git e Github | [Certificado](https://www.dio.me/certificate/PNE9QBP7/share) |
+| Autenticações | [Certificado](https://www.dio.me/certificate/LWBDFQR0/share) |
+| Colaboração no Github | [Certificado](https://www.dio.me/certificate/FELOWU5M/share) |
 
-<!-- Isenrção de códigos de bloco no Markdown é colocado entre 3 crases, pode ser qualquer linguagem -->
-```system.out.println();system.out.println();system.out.println();system.out.println();system.out.println();system.out.println();system.out.println();```
+----------------------
 
-<!-- Para citações usa-se a seta -->
-> Texto de citações
-
-<!-- Linhas de quebra são adicionadas com traços "---" -->
-
----------------------------------------
-
-<!-- Tabelas -->
-
-| Cabeçalho 1 | Cabeçalho 2 |
-|-------------|-------------|
-| texto 1     | texto 2     |
-| texto 3     | texto 4     |
-
-
-<!-- Checkout O Markdown aceita a tag "br" do HTML-->
-
-[ X ] Tarefa 1 <br>
-[ ] Tarefa 2
-
-
-<!--
-**MarcusRyo/MarcusRyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Estatisticas Github de Marcus Ryo](https://github-readme-stats.vercel.app/api?username=marcusryo&show_icons=true&theme=tokyonight)
