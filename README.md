@@ -30,5 +30,10 @@
 | Colaboração no Github | [Certificado](https://www.dio.me/certificate/FELOWU5M/share) |
 
 ----------------------
+<div>
 
-![Estatisticas Github de Marcus Ryo](https://github-readme-stats.vercel.app/api?username=marcusryo&show_icons=true&theme=tokyonight)
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusryo&layout=compact&langs_count=7&theme=tokyonight"/>
+
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusryo&show_icons=true&theme=tokyonight"/>
+
+</div>
