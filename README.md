@@ -21,6 +21,40 @@ ___Negrito e Italico___ ou ***Negrito e Italico***
    - Sublista
        - Sublista 2
 
+<!-- Adicionando links a textos-->
+[Texto da imagem](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgByBT5IiAT_a2x9pUVb4VMoOrlzHH7Jrzj-HB5jzHlR4lNLMS)
+
+<!-- Adicionando imagem ao markdown -->
+![Texto da imagem](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgByBT5IiAT_a2x9pUVb4VMoOrlzHH7Jrzj-HB5jzHlR4lNLMS)
+
+
+<!-- Isenrção de códigos de linha no Markdown é colocado entre crases -->
+`system.out.println();`
+
+<!-- Isenrção de códigos de bloco no Markdown é colocado entre 3 crases, pode ser qualquer linguagem -->
+```system.out.println();system.out.println();system.out.println();system.out.println();system.out.println();system.out.println();system.out.println();```
+
+<!-- Para citações usa-se a seta -->
+> Texto de citações
+
+<!-- Linhas de quebra são adicionadas com traços "---" -->
+
+---------------------------------------
+
+<!-- Tabelas -->
+
+| Cabeçalho 1 | Cabeçalho 2 |
+|-------------|-------------|
+| texto 1     | texto 2     |
+| texto 3     | texto 4     |
+
+
+<!-- Checkout O Markdown aceita a tag "br" do HTML-->
+
+[ X ] Tarefa 1 <br>
+[ ] Tarefa 2
+
+
 <!--
 **MarcusRyo/MarcusRyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
