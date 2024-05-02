@@ -18,7 +18,7 @@
 
 --------------------
 
-### 📝 Meus Curosos e Certificados
+### 📝 Meus Cursos e Certificados
 
 | Cursos | Certificados |
 | ------ | ------------ |
